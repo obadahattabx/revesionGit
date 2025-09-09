@@ -1,2 +1,3 @@
 console.log("Hello from JavaScript!");
-const obada = "Obada";
+
+const obada = "ahmad";
