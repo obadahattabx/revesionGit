@@ -1,3 +1,3 @@
 console.log("Hello from JavaScript!");
-const obada = "ahmad";
+const nane = "yazan";
 console.log("Hello from JavaScript!");
